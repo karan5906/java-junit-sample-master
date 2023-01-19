@@ -5,6 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 
+/**
+ * @author 19059
+ *
+ */
 @SpringBootApplication
 @ComponentScan("de.codecentric.sample")
 public class SampleApplication {
