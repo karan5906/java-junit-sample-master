@@ -6,7 +6,7 @@ import org.springframework.context.annotation.ComponentScan;
 
 
 /**
- * @author 19059 - Jay
+ * @author 19059 - Miit
  *
  */
 @SpringBootApplication
