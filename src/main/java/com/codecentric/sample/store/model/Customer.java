@@ -2,6 +2,10 @@ package com.codecentric.sample.store.model;
 
 import java.util.UUID;
 
+/**
+ * @author Arsh
+ *
+ */
 public class Customer {
 
     private String id;
